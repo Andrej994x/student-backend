@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactAspCrud", "ReactAspCrud\ReactAspCrud.csproj", "{1B05D9B2-9327-4B00-84DB-534976579B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B05D9B2-9327-4B00-84DB-534976579B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B05D9B2-9327-4B00-84DB-534976579B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B05D9B2-9327-4B00-84DB-534976579B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B05D9B2-9327-4B00-84DB-534976579B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638C7434-127E-42B8-BB49-AB663A391F93}
+	EndGlobalSection
+EndGlobal
